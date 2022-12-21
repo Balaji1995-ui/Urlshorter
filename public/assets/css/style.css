@@ -1,0 +1,11 @@
+form{
+    border: 2px solid rgb(75, 69, 69);
+    padding: 20px;
+    background-color: rgb(146, 202, 204);
+    font-weight: bold;
+    transition-property:background-color;
+    transition-duration: 3s;
+}
+form:hover{
+    background-color: blueviolet;
+}
